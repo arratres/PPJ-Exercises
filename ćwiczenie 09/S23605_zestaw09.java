@@ -1,5 +1,4 @@
-public
-    class S23605_zestaw09{
+public class S23605_zestaw09{
 
     public void cwiczenie_01(){
 
